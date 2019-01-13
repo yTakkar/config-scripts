@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "rstart": "",
+    "start": "NODE_ENV=development webpack-dev-server",
+    "build": "NODE_ENV=production webpack -p"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "app-scripts": "1.0.0"
+  }
+}
